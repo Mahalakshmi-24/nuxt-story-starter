@@ -25,10 +25,7 @@ export default {
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: [
-    '~/components',
-    '~/components/storyblok',
-    '~/components/storyblok/ui'
-  ],
+    '~/components'  ],
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
